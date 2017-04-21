@@ -1,5 +1,4 @@
 import React from 'react';
-//IndexRoute: shown for paths defined by a parent but not the children
 import { Route, IndexRoute } from 'react-router';
 
 import App from './components/app';
